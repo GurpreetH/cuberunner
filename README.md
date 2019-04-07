@@ -1,4 +1,3 @@
 # cuberunner
-3d android game made in unity
-![sample](samplescreenshot.png =200px)
-<img src="samplescreenshot.png" width="48">
+3d android game made in unity. Ui and multiple levels implemented
+<img src="samplescreenshot.png" width="200">
